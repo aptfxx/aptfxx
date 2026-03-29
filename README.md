@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm nalas!!
 
-<!--
-**nalasforreal/nalasforreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools for making things better
+* **PYRAMID** is a set of software to autocomplete math/science homework using AI
+* **ASTATINE** is a retired Roblox software made to 'play things your own way'
+* **CRESCENT** is the predecessor to Astatine. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, HTML, LuaU |
+
+---
+
+### 📫 Contact
+* Discord: totallynotnalas
+
+*"A bomb is a bomb"*
