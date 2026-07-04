@@ -1,9 +1,9 @@
-# Hi there, I'm nalas!!
+# Hi there, I'm aptitude!!
 I'm a 17 year old developer who started on Roblox, and looking forward to advancing my knowledge to other languages.
-I'm "experienced" at using linux. That means that I know what to do if a terminal was placed in front of my face and told to transfer the files from one HDD to another.
+I'm "experienced" at using linux. That means that I know what to do if a terminal was placed in front of my face and told to transfer the files from one drive to another.
 
 ### What have I done?
-I've made quite a few projects!
+I've made quite a few projects! As you can see, im shit at keeping things in life for long
 
 🟢 - Online // 🟠 - Not Maintained // 🔴 - Offline/Deprecated
 
@@ -29,4 +29,4 @@ Even though AI APIs are used in things like `nix`, `ncli` and `pyramid`, I am ag
 
 ## Anything... actually impressive? 
 
-Making my own Linux distro, inspired by [Fuck Linux](https://fucklinux.org/). It is a shitty distro using `archiso` at its core, but basically removing everything that makes arch... arch (yes, including pacman) and replacing it with our own blazing fast.. wrapper for pacman! Yeah, very good. The ISO will be linked [here](https://www.youtube.com/watch?v=q1ONeoBhT-4) if I have finished it. (Use on a VM pls)
+Making my own Linux distro, inspired by [Fuck Linux](https://fucklinux.org/). It is a shitty distro using `archiso` at its core, but basically removing everything that makes arch... arch (yes, including pacman) and replacing it with our own blazing fast.. wrapper for pacman! Yeah, very good.
