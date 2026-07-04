@@ -7,12 +7,10 @@ I've made quite a few projects! As you can see, im shit at keeping things in lif
 
 🟢 - Online // 🟠 - Not Maintained // 🔴 - Offline/Deprecated
 
-* Nix: The all-around solution to solving problems, using gemini API [🤔]
-* NCLI: Blazingly fast, feature-rich version of Pyramid [🟠]
-* Pyramid: Useful tools for question completion using Ai [🟠]
+* nMOD: The no-bullshit minecraft loader [🟢]
+* NCLI: Blazingly fast, feature-rich question answer...er and text summariser [🟠]
 * Astatine: Roblox innovation tools [🟠]
 * Crescent: Old roblox innovation tool with a larger yet outdated library [🔴]
-* RLXL: Oldest tools for Roblox, medium sized library and smallest time taken [🔴]
 
 ## What languages? 
 
